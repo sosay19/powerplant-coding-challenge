@@ -1,0 +1,5 @@
+Engie_API/obj/
+bin/
+.vs/
+Engie_API/appsettings.Development.json
+Engie_API/appsettings.json
